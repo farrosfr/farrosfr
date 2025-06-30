@@ -12,7 +12,7 @@ _"May the eyes of cowards never sleep."—Khalid bin Walid_
 
 I am a cybersecurity enthusiast with a focus on offensive security and penetration testing. Currently learning and building tools to understand the art of ethical hacking. My goal is to contribute to a more secure digital world by identifying and mitigating vulnerabilities.
 
-- 🔭 I’m currently working on Solar Nusantara
+- 🔭 I’m currently working on **[Solar Nusantara](https://solar-nusantara.com)**
 - 🌱 I’m currently learning **OSINT**.
 - 👯 I’m looking to collaborate on **Google Dorks**.
 - 💬 Ask me about **Python, Pentesting, or CTFs**.
