@@ -26,6 +26,9 @@ I am a cybersecurity enthusiast with a focus on offensive security and penetrati
   <img src="https://github-readme-stats.vercel.app/api?username=farrosfr&show_icons=true&theme=dracula&count_private=true&cache_buster=3" alt="farrosfr's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farrosfr&layout=compact&theme=dracula&cache_buster=3" alt="Top Langs" />
 </p>
+<p align="center">
+  <img src="https://streak-stats.vercel.app/?user=farrosfr&theme=dracula" alt="GitHub Streak" />
+</p>
 
 ---
 
