@@ -10,13 +10,15 @@ _"May the eyes of cowards never sleep."—Khalid bin Walid_
 
 ### 👋 About Me
 
-I am a cybersecurity enthusiast with a focus on offensive security and penetration testing. Currently learning and building tools to understand the art of ethical hacking. My goal is to contribute to a more secure digital world by identifying and mitigating vulnerabilities.
+I am a cybersecurity enthusiast with a focus on offensive security and penetration testing. My goal is to contribute to a more secure digital world by identifying and mitigating vulnerabilities.
+
+With my background in security, I also specialize in web development, creating websites that are both high-quality and secure. Feel free to reach out if you're looking for a developer who puts security first.
 
 - 🔭 I’m currently working on **[Solar Nusantara](https://solar-nusantara.com)**
 - 🌱 I’m currently learning **OSINT**.
 - 👯 I’m looking to collaborate on **Google Dorks**.
 - 💬 Ask me about **Python, Pentesting, or CTFs**.
-- 📫 How to reach me: **mochammadfarrosfr@gmail.com**
+- 📫 How to reach me: **farros.alfatih@gmail.com**
 
 ---
 
@@ -37,12 +39,14 @@ I am a cybersecurity enthusiast with a focus on offensive security and penetrati
 ### 🛡️ My Arsenal: Tech & Tools
 
 <p align="center">
-  <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/></a>
-  <a href="https://www.kali.org/" target="_blank"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="kali linux"/></a>
-  <a href="https://www.metasploit.com/" target="_blank"><img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" alt="metasploit"/></a>
-  <a href="https://portswigger.net/burp" target="_blank"><img src="https://img.shields.io/badge/Burp_Suite-FF7A1F?style=for-the-badge&logo=burp-suite&logoColor=white" alt="burp suite"/></a>
-  <a href="https://nmap.org/" target="_blank"><img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" alt="nmap"/></a>
-  <a href="https://www.wireshark.org/" target="_blank"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="wireshark"/></a>
+  <a href="https://wordpress.org/" target="_blank"><img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web" target="_blank"><img src="https://img.shields.io/badge/Web_Development-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="web development"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/></a>
+  <a href="https://www.kali.org/" target="_blank"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="kali linux"/></a>
+  <a href="https://www.metasploit.com/" target="_blank"><img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" alt="metasploit"/></a>
+  <a href="https://portswigger.net/burp" target="_blank"><img src="https://img.shields.io/badge/Burp_Suite-FF7A1F?style=for-the-badge&logo=burp-suite&logoColor=white" alt="burp suite"/></a>
+  <a href="https://nmap.org/" target="_blank"><img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" alt="nmap"/></a>
+  <a href="https://www.wireshark.org/" target="_blank"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="wireshark"/></a>
 </p>
 
 ---
