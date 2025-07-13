@@ -1,4 +1,4 @@
-# FarrosFR | Offensive Cybersecurity
+# FarrosFR | Offensive Security
 
 _"May the eyes of cowards never sleep."—Khalid bin Walid_
 
