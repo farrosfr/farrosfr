@@ -1,4 +1,4 @@
-# FarrosFR | Offensive Security
+# Mochammad Farros Fatchur Roji (FarrosFR) | Offensive Security
 
 _"May the eyes of cowards never sleep."—Khalid bin Walid_
 
@@ -10,15 +10,37 @@ _"May the eyes of cowards never sleep."—Khalid bin Walid_
 
 ### 👋 About Me
 
-I am a cybersecurity enthusiast with a focus on offensive security and penetration testing. My goal is to contribute to a more secure digital world by identifying and mitigating vulnerabilities.
+I am a cybersecurity practitioner specializing in **Offensive Security** and **Penetration Testing**. My primary focus is identifying and mitigating vulnerabilities to enhance digital security. I am also a web developer who prioritizes building secure, high-quality applications.
 
-With my background in security, I also specialize in web development, creating websites that are both high-quality and secure. Feel free to reach out if you're looking for a developer who puts security first.
+- 🔭 **Focusing on:** Integrating security principles into modern web applications.
+- 🌱 **Learning:** Secure database architecture for Jamstack (e.g., Supabase, PlanetScale) and advanced serverless function security.
+- 👯 **Open to collaborate on:** Security audits for Jamstack projects or building secure web applications from the ground up.
+- 💬 **Ask me about:** Web Application Pentesting, Secure Coding Practices, and building with Astro/Jamstack.
+- 📫 **Let's connect:** farros.alfatih@gmail.com or find me on **[LinkedIn](https://www.linkedin.com/in/farrosfr/)**.
 
-- 🔭 I’m currently working on **[Solar Nusantara](https://solar-nusantara.com)**
-- 🌱 I’m currently learning **OSINT**.
-- 👯 I’m looking to collaborate on **Google Dorks**.
-- 💬 Ask me about **Python, Pentesting, or CTFs**.
-- 📫 How to reach me: **farros.alfatih@gmail.com**
+---
+
+### 🛡️ My Arsenal: Tech & Tools
+
+I utilize a combination of offensive security tools and modern development technologies.
+
+#### Offensive Security
+<p align="center">
+  <a href="https://www.kali.org/" target="_blank"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/></a>
+  <a href="https://portswigger.net/burp" target="_blank"><img src="https://img.shields.io/badge/Burp_Suite-FF7A1F?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite"/></a>
+  <a href="https://nmap.org/" target="_blank"><img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/></a>
+  <a href="https://www.metasploit.com/" target="_blank"><img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/></a>
+  <a href="https://www.wireshark.org/" target="_blank"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/></a>
+</p>
+
+#### Secure Development (Jamstack)
+<p align="center">
+  <a href="https://astro.build/" target="_blank"><img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" alt="Astro"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/></a>
+  <a href="https://supabase.com/" target="_blank"><img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/></a>
+  <a href="https://www.netlify.com/" target="_blank"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/></a>
+</p>
 
 ---
 
@@ -34,20 +56,6 @@ With my background in security, I also specialize in web development, creating w
   <img src="https://streak-stats.vercel.app/?user=farrosfr&theme=dracula" alt="GitHub Streak" />
 </p>
 -->
----
-
-### 🛡️ My Arsenal: Tech & Tools
-
-<p align="center">
-  <a href="https://wordpress.org/" target="_blank"><img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web" target="_blank"><img src="https://img.shields.io/badge/Web_Development-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="web development"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/></a>
-  <a href="https://www.kali.org/" target="_blank"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="kali linux"/></a>
-  <a href="https://www.metasploit.com/" target="_blank"><img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" alt="metasploit"/></a>
-  <a href="https://portswigger.net/burp" target="_blank"><img src="https://img.shields.io/badge/Burp_Suite-FF7A1F?style=for-the-badge&logo=burp-suite&logoColor=white" alt="burp suite"/></a>
-  <a href="https://nmap.org/" target="_blank"><img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" alt="nmap"/></a>
-  <a href="https://www.wireshark.org/" target="_blank"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="wireshark"/></a>
-</p>
 
 ---
 
@@ -62,9 +70,10 @@ With my background in security, I also specialize in web development, creating w
 ### 🌐 Connect with Me
 
 <p align="center">
+  <a href="https://farrosfr.com/"><img src="https://img.shields.io/badge/Website-farrosfr.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
   <a href="https://www.linkedin.com/in/farrosfr/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/farrosfr_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://medium.com/@farrosfr"><img src="https://img.shields.io/badge/Medium-Visit_My_Blog-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="https://twitter.com/farrosfr_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>
+  <a href="https://farrosfr.medium.com/"><img src="https://img.shields.io/badge/Medium-Blog-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
 </p>
 
 
