@@ -19,14 +19,18 @@ I am a cybersecurity practitioner specializing in **Offensive Security** and **P
 
 ---
 
-#### Secure Development (Jamstack)
+### 📊 My GitHub Stats
+
 <p align="center">
-  <a href="https://astro.build/" target="_blank"><img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" alt="Astro"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/></a>
-  <a href="https://supabase.com/" target="_blank"><img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/></a>
-  <a href="https://www.netlify.com/" target="_blank"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=farrosfr&show_icons=true&theme=dracula&count_private=true&cache_buster=12" alt="farrosfr's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farrosfr&layout=compact&theme=dracula&cache_buster=12" alt="Top Langs" />
 </p>
+
+<!--
+<p align="center">
+  <img src="https://streak-stats.vercel.app/?user=farrosfr&theme=dracula" alt="GitHub Streak" />
+</p>
+-->
 
 ---
 
@@ -43,20 +47,14 @@ I utilize a combination of offensive security tools and modern development techn
   <a href="https://www.wireshark.org/" target="_blank"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/></a>
 </p>
 
----
-
-### 📊 My GitHub Stats
-
+#### Secure Development (Jamstack)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farrosfr&show_icons=true&theme=dracula&count_private=true&cache_buster=12" alt="farrosfr's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farrosfr&layout=compact&theme=dracula&cache_buster=12" alt="Top Langs" />
+  <a href="https://astro.build/" target="_blank"><img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" alt="Astro"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/></a>
+  <a href="https://supabase.com/" target="_blank"><img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/></a>
+  <a href="https://www.netlify.com/" target="_blank"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/></a>
 </p>
-
-<!--
-<p align="center">
-  <img src="https://streak-stats.vercel.app/?user=farrosfr&theme=dracula" alt="GitHub Streak" />
-</p>
--->
 
 ---
 
