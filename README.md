@@ -15,7 +15,7 @@ I am a cybersecurity practitioner specializing in **Offensive Security** and **P
 - 🌱 **Learning:** Secure database architecture for Jamstack (e.g., Supabase, PlanetScale) and advanced serverless function security.
 - 👯 **Open to collaborate on:** Security audits for Jamstack projects or building secure web applications from the ground up.
 - 💬 **Ask me about:** Web Application Pentesting, Secure Coding Practices, and building with Astro/Jamstack.
-- 📫 **Let's connect:** farros.alfatih@gmail.com or find me on **[LinkedIn](https://www.linkedin.com/in/farrosfr/)**.
+- 📫 **Let's connect:** find me on **[LinkedIn](https://www.linkedin.com/in/farrosfr/)**.
 
 ---
 
