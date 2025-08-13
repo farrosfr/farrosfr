@@ -22,8 +22,8 @@ I am a cybersecurity practitioner specializing in **Offensive Security** and **P
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farrosfr&show_icons=true&theme=dracula&count_private=true&cache_buster=12" alt="farrosfr's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farrosfr&layout=compact&theme=dracula&cache_buster=12" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=farrosfr&show_icons=true&theme=dracula&count_private=true&cache_buster=13" alt="farrosfr's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farrosfr&layout=compact&theme=dracula&cache_buster=13" alt="Top Langs" />
 </p>
 
 <!--
