@@ -38,7 +38,7 @@ In cybersecurity, focused on offensive security and common vulnerabilities.
 
 <p align="center">
   <a href="https://tryhackme.com/p/farrosfr">
-    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4050162" style='border:none;'></iframe>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/farrosfr.png" alt="Your Image Badge" />
   </a>
 </p>
 <p align="center">
