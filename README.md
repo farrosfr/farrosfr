@@ -16,7 +16,7 @@ _"May the eyes of cowards never sleep." — Khalid bin Walid_
 
 ### 🔥 About Me
 
-I specialize in **Offensive Security (Pentesting)** and building **Secure Architectures**. Bridging the gap between breaking systems and building resilient Jamstack applications.
+A web builder specializing in high-performance websites using meta-frameworks like Astro. In cybersecurity, focused on offensive security and common vulnerabilities.
 
 ---
 
