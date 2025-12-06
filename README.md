@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 # Mochammad Farros Fatchur Roji (FarrosFR)
 
@@ -6,7 +6,7 @@
 
 _"May the eyes of cowards never sleep." — Khalid bin Walid_
 
-<p align="center">
+<p align="left">
   <a href="https://farrosfr.com/"><img src="https://img.shields.io/badge/Portfolio-farrosfr.com-blue?style=flat&logo=google-chrome&logoColor=white" alt="Website"/></a>
   <a href="https://www.linkedin.com/in/farrosfr/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:email.lu@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -16,13 +16,14 @@ _"May the eyes of cowards never sleep." — Khalid bin Walid_
 
 ### 🔥 About Me
 
-A web builder specializing in high-performance websites using meta-frameworks like Astro. In cybersecurity, focused on offensive security and common vulnerabilities.
+A web builder specializing in high-performance websites using meta-frameworks like Astro. 
+In cybersecurity, focused on offensive security and common vulnerabilities.
 
 ---
 
 ### ⚔️ The Arsenal
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=kali-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp-FF7A1F?style=flat-square&logo=burp-suite&logoColor=white" />
   <img src="https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white" />
@@ -35,14 +36,14 @@ A web builder specializing in high-performance websites using meta-frameworks li
 
 ### 📊 Stats & Journey
 
-<p align="center">
+<p align="left">
   <a href="https://tryhackme.com/p/farrosfr">
     <img src="https://tryhackme-badges.s3.amazonaws.com/farrosfr.png" alt="TryHackMe" height="150" />
   </a>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=farrosfr&theme=tokyonight&hide_border=true&background=0D1117&card_height=150" alt="GitHub Streak" height="150" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=farrosfr&theme=flat&no-frame=true&column=7&margin-w=15&margin-h=15" alt="trophy" />
 </p>
 
