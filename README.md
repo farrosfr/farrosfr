@@ -37,11 +37,13 @@ I specialize in **Offensive Security (Pentesting)** and building **Secure Archit
 
 <p align="center">
   <a href="https://tryhackme.com/p/farrosfr">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/farrosfr.png" alt="TryHackMe" height="140" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/farrosfr.png" alt="TryHackMe" height="150" />
   </a>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=farrosfr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="140" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farrosfr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" height="140" alt="langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farrosfr&theme=tokyonight&hide_border=true&background=0D1117&card_height=150" alt="GitHub Streak" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=farrosfr&theme=flat&no-frame=true&column=7&margin-w=15&margin-h=15" alt="trophy" />
 </p>
 
 </div>
