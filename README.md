@@ -2,7 +2,7 @@
 
 # Mochammad Farros Fatchur Roji (FarrosFR)
 
-### 🛡️ Cybersecurity Practitioner | 🚀 Secure Web Developer
+### 🛡️ Red Teamer | 🚀 Modern Web Builder
 
 _"May the eyes of cowards never sleep." — Khalid bin Walid_
 
@@ -16,23 +16,36 @@ _"May the eyes of cowards never sleep." — Khalid bin Walid_
 
 ### 🔥 About Me
 
-A web builder specializing in high-performance websites using meta-frameworks like Astro. 
-In cybersecurity, focused on offensive security and common vulnerabilities.
+A red teamer with a focus on offensive security, attack simulation, and common real-world vulnerabilities.  
+On the web side, I build high-performance, minimal, and static websites using modern meta-frameworks like Astro.
 
 ---
 
-### ⚔️ The Arsenal
+### ⚔️ Offensive Arsenal
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp-FF7A1F?style=flat-square&logo=burp-suite&logoColor=white" />
   <img src="https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp-FF7A1F?style=flat-square&logo=burp-suite&logoColor=white" />
   <img src="https://img.shields.io/badge/Metasploit-000000?style=flat-square&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cobalt%20Strike-8B0000?style=flat-square&logo=sketch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ghidra-FF0000?style=flat-square&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/John%20the%20Ripper-000000?style=flat-square&logo=gnu&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLmap-CC0000?style=flat-square&logo=sqlite&logoColor=white" />
+</p>
+
+---
+
+### 🚀 Web Stack
+
+<p align="center">
   <img src="https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 </p>
+
 
 ### 📊 Stats & Journey
 
@@ -41,12 +54,3 @@ In cybersecurity, focused on offensive security and common vulnerabilities.
     <img src="https://tryhackme-badges.s3.amazonaws.com/farrosfr.png" alt="Your Image Badge" />
   </a>
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farrosfr&theme=tokyonight&hide_border=true&background=0D1117&card_height=150" alt="GitHub Streak" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=farrosfr&theme=flat&no-frame=true&column=7&margin-w=15&margin-h=15" alt="trophy" />
-</p>
-
-</div>
