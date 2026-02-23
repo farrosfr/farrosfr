@@ -1,8 +1,8 @@
 <div align="center">
 
-# Mochammad Farros Fatchur Roji (FarrosFR)
+# Mochammad Farros Fatchur Roji
 
-### ⚔️ Red Team Operator | 🚀 Modern Web Builder
+### Full-Stack Web & Red Team   
 
 _"May the eyes of cowards never sleep." — Khalid bin Walid_
 
