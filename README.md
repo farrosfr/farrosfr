@@ -2,7 +2,7 @@
 
 # Mochammad Farros Fatchur Roji
 
-### Full-Stack Web & Red Team   
+### Full-Stack Developer | Red Team Operator
 
 _"May the eyes of cowards never sleep." — Khalid bin Walid_
 
