@@ -2,26 +2,43 @@
 
 # Mochammad Farros Fatchur Roji
 
-### Full-Stack Developer | Red Team Operator
+### Full-Stack Developer | Astro Contributor | Browser Extension Developer | Red Team Operator
 
-_"May the eyes of cowards never sleep." — Khalid bin Walid_
+_"May the eyes of cowards never sleep." - Khalid bin Walid_
 
 <p align="center">
   <a href="https://farrosfr.com/"><img src="https://img.shields.io/badge/Portfolio-farrosfr.com-blue?style=flat&logo=google-chrome&logoColor=white" alt="Website"/></a>
+  <a href="https://addons.mozilla.org/en-US/firefox/addon/noa-blocker/"><img src="https://img.shields.io/badge/Firefox_Add--on-NoA_Blocker-FF7139?style=flat&logo=firefoxbrowser&logoColor=white" alt="NoA Blocker Firefox Add-on"/></a>
+  <a href="https://farrosfr.substack.com/"><img src="https://img.shields.io/badge/Substack-farrosfr-FF6719?style=flat&logo=substack&logoColor=white" alt="Substack"/></a>
+  <a href="https://farrosfr.medium.com/"><img src="https://img.shields.io/badge/Medium-farrosfr-000000?style=flat&logo=medium&logoColor=white" alt="Medium"/></a>
   <a href="https://www.linkedin.com/in/farrosfr/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:email.lu@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
 
-### 🔥 About Me
+### About Me
 
-A red teamer with a focus on offensive security, attack simulation, and common real-world vulnerabilities.  
-On the web side, I build high-performance, minimal, and static websites using modern meta-frameworks like Astro.
+I build fast, minimal, and practical web products with Astro, TypeScript, browser extensions, and backend tools that stay close to real operational needs.
+
+I currently contribute to Astro, published the free [Zenix Astro theme](https://astro.build/themes/details/zenix/), built the [NoA Blocker Firefox add-on](https://addons.mozilla.org/en-US/firefox/addon/noa-blocker/), and have been building practical backend services in Rust.
+
+I also write about security, web development, and engineering notes on [farrosfr.com](https://farrosfr.com/), [Substack](https://farrosfr.substack.com/), and [Medium](https://farrosfr.medium.com/).
 
 ---
 
-### ⚔️ Offensive Arsenal
+### Current Focus
+
+- Contributing to the Astro ecosystem
+- Building free, practical Astro themes
+- Developing browser add-ons for privacy, security, and focused browsing
+- Writing backend services and tooling in Rust
+- Publishing security and engineering articles
+- Practicing offensive security and attack simulation
+
+---
+
+### Offensive Arsenal
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=kali-linux&logoColor=white" />
@@ -37,20 +54,35 @@ On the web side, I build high-performance, minimal, and static websites using mo
 
 ---
 
-### 🚀 Web Stack
+### Web & Backend Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firefox%20Add--ons-FF7139?style=flat-square&logo=firefoxbrowser&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 </p>
 
+---
 
-### 📊 Stats & Journey
+### Featured Work
+
+- [Zenix](https://astro.build/themes/details/zenix/) - a free Astro theme published on the official Astro theme directory
+- [NoA Blocker](https://addons.mozilla.org/en-US/firefox/addon/noa-blocker/) - a Firefox add-on for DOM-level keyword and content filtering
+- [farrosfr.com](https://farrosfr.com/) - personal site and security writing
+- [farrosfr Substack](https://farrosfr.substack.com/) - security and engineering articles
+- [farrosfr Medium](https://farrosfr.medium.com/) - practical notes on security and development
+
+---
+
+### Stats & Journey
 
 <p align="center">
   <a href="https://tryhackme.com/p/farrosfr">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/farrosfr.png" alt="Your Image Badge" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/farrosfr.png" alt="TryHackMe Badge" />
   </a>
 </p>
+
+</div>
