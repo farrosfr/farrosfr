@@ -18,7 +18,7 @@ _"May the eyes of cowards never sleep." - Khalid bin Walid_
 
 I build fast, minimal, and practical web products with Astro, TypeScript, browser extensions, and backend tools that stay close to real operational needs.
 
-I currently contribute to Astro, published the free [Zenix Astro theme](https://astro.build/themes/details/zenix/), built the [NoA Blocker Firefox add-on](https://addons.mozilla.org/en-US/firefox/addon/noa-blocker/), and have been building practical backend services in Rust.
+I currently contribute to Astro, published the free [Zenix Astro theme](https://astro.build/themes/details/zenix/), built the [NoA Blocker Firefox add-on](https://addons.mozilla.org/en-US/firefox/addon/noa-blocker/), and have been building practical backend services with Rust, Axum, Tokio, PostgreSQL, and SQLx.
 
 I also write about cybersecurity, data engineering, web development, and engineering notes on [farrosfr.com](https://farrosfr.com/) as my Substack custom domain, plus [Medium](https://farrosfr.medium.com/).
 
@@ -29,7 +29,7 @@ I also write about cybersecurity, data engineering, web development, and enginee
 - Contributing to the Astro ecosystem
 - Building free, practical Astro themes
 - Developing browser add-ons for privacy, security, and focused browsing
-- Writing backend services and tooling in Rust
+- Writing backend services and tooling with Rust, Axum, Tokio, PostgreSQL, and SQLx
 - Publishing security and engineering articles
 - Practicing offensive security and attack simulation
 
@@ -58,7 +58,10 @@ I also write about cybersecurity, data engineering, web development, and enginee
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Firefox%20Add--ons-FF7139?style=flat-square&logo=firefoxbrowser&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Axum-222222?style=flat-square&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tokio-222222?style=flat-square&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLx-333333?style=flat-square&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 </p>
 
