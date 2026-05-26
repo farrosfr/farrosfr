@@ -5,9 +5,8 @@
 _"May the eyes of cowards never sleep." - Khalid bin Walid_
 
 <p>
-  <a href="https://farrosfr.com/"><img src="https://img.shields.io/badge/Portfolio-farrosfr.com-blue?style=flat&logo=google-chrome&logoColor=white" alt="Website"/></a>
+  <a href="https://farrosfr.com/"><img src="https://img.shields.io/badge/Substack-farrosfr.com-FF6719?style=flat&logo=substack&logoColor=white" alt="Substack custom domain"/></a>
   <a href="https://addons.mozilla.org/en-US/firefox/addon/noa-blocker/"><img src="https://img.shields.io/badge/Firefox_Add--on-NoA_Blocker-FF7139?style=flat&logo=firefoxbrowser&logoColor=white" alt="NoA Blocker Firefox Add-on"/></a>
-  <a href="https://farrosfr.substack.com/"><img src="https://img.shields.io/badge/Substack-farrosfr-FF6719?style=flat&logo=substack&logoColor=white" alt="Substack"/></a>
   <a href="https://farrosfr.medium.com/"><img src="https://img.shields.io/badge/Medium-farrosfr-000000?style=flat&logo=medium&logoColor=white" alt="Medium"/></a>
   <a href="https://www.linkedin.com/in/farrosfr/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:email.lu@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -21,7 +20,7 @@ I build fast, minimal, and practical web products with Astro, TypeScript, browse
 
 I currently contribute to Astro, published the free [Zenix Astro theme](https://astro.build/themes/details/zenix/), built the [NoA Blocker Firefox add-on](https://addons.mozilla.org/en-US/firefox/addon/noa-blocker/), and have been building practical backend services in Rust.
 
-I also write about security, web development, and engineering notes on [farrosfr.com](https://farrosfr.com/), [Substack](https://farrosfr.substack.com/), and [Medium](https://farrosfr.medium.com/).
+I also write about cybersecurity, data engineering, web development, and engineering notes on [farrosfr.com](https://farrosfr.com/) as my Substack custom domain, plus [Medium](https://farrosfr.medium.com/).
 
 ---
 
@@ -69,8 +68,7 @@ I also write about security, web development, and engineering notes on [farrosfr
 
 - [Zenix](https://astro.build/themes/details/zenix/) - a free Astro theme published on the official Astro theme directory
 - [NoA Blocker](https://addons.mozilla.org/en-US/firefox/addon/noa-blocker/) - a Firefox add-on for DOM-level keyword and content filtering
-- [farrosfr.com](https://farrosfr.com/) - personal site and security writing
-- [farrosfr Substack](https://farrosfr.substack.com/) - security and engineering articles
+- [farrosfr.com](https://farrosfr.com/) - Substack custom domain for cybersecurity and engineering writing
 - [farrosfr Medium](https://farrosfr.medium.com/) - practical notes on security and development
 
 ---
