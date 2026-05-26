@@ -56,6 +56,7 @@ I also write about cybersecurity, data engineering, web development, and enginee
 <p>
   <img src="https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Firefox%20Add--ons-FF7139?style=flat-square&logo=firefoxbrowser&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Axum-222222?style=flat-square&logo=rust&logoColor=white" />
