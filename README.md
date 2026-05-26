@@ -2,7 +2,7 @@
 
 ### Full-Stack Developer | Astro Contributor | Browser Extension Developer | Red Team Operator
 
-_"May the eyes of cowards never sleep." - Khalid bin Walid_
+_"The quieter you become, the more you are able to hear." - Maulana Rumi_
 
 <p>
   <a href="https://farrosfr.com/"><img src="https://img.shields.io/badge/Substack-farrosfr.com-FF6719?style=flat&logo=substack&logoColor=white" alt="Substack custom domain"/></a>
@@ -38,7 +38,7 @@ I also write about cybersecurity, data engineering, web development, and enginee
 ### Offensive Arsenal
 
 <p>
-  <img src="https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp-FF7A1F?style=flat-square&logo=burp-suite&logoColor=white" />
   <img src="https://img.shields.io/badge/Metasploit-000000?style=flat-square&logo=metasploit&logoColor=white" />
