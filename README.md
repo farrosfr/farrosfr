@@ -1,6 +1,6 @@
 # Mochammad Farros Fatchur Roji
 
-### Full-Stack Developer | Astro Contributor | Browser Extension Developer | Red Team Operator
+### System Architect | Astro Contributor | Axum Contributor | Rust Developer | Browser Extension Developer | Red Team Enthusiast
 
 _"The quieter you become, the more you are able to hear." - Maulana Rumi_
 
