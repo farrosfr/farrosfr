@@ -14,7 +14,7 @@ System Architect building high-performance web systems (Astro contributor, theme
 
 | Domain | Systems & Tooling |
 | :--- | :--- |
-| **Systems & Backend** | Rust (xum, 	okio, sqlx), PostgreSQL, Python, Linux (Debian, Arch, Kali) |
+| **Systems & Backend** | Rust (`axum`, `tokio`, `sqlx`), PostgreSQL, Python, Linux (Debian, Arch, Kali) |
 | **High-Performance Web** | Astro (Core contributor & theme author), TypeScript, Tailwind CSS, WebExtensions (MV3) |
 | **Offensive Security & Labs** | Attack simulation, MITRE ATT&CK TTPs, Burp Suite, Metasploit, network recon, AppSec |
 | **Autonomous Systems** | Multi-agent architectures, autonomous agent design patterns, LLM orchestration |
