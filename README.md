@@ -9,7 +9,7 @@ _"The quieter you become, the more you are able to hear." - Maulana Rumi_
   <a href="https://addons.mozilla.org/en-US/firefox/addon/noa-blocker/"><img src="https://img.shields.io/badge/Firefox_Add--on-NoA_Blocker-FF7139?style=flat&logo=firefoxbrowser&logoColor=white" alt="NoA Blocker Firefox Add-on"/></a>
   <a href="https://farrosfr.medium.com/"><img src="https://img.shields.io/badge/Medium-farrosfr-000000?style=flat&logo=medium&logoColor=white" alt="Medium"/></a>
   <a href="https://www.linkedin.com/in/farrosfr/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:email.lu@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/farrosfr/"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
@@ -70,6 +70,8 @@ I also write about cybersecurity, data engineering, web development, and enginee
 
 ### Featured Work
 
+- [Red Team Playbook](https://github.com/farrosfr/red-team-playbook) - Comprehensive TTPs and attack techniques aligned with MITRE ATT&CK
+- [AI Agent Architecture](https://github.com/farrosfr/learn-agents) - Design patterns and implementations for autonomous multi-agent systems
 - [Zenix](https://astro.build/themes/details/zenix/) - a free Astro theme published on the official Astro theme directory
 - [NoA Blocker](https://addons.mozilla.org/en-US/firefox/addon/noa-blocker/) - a Firefox add-on for DOM-level keyword and content filtering
 - [farrosfr.com](https://farrosfr.com/) - Substack custom domain for cybersecurity and engineering writing
