@@ -2,11 +2,34 @@
 
 ### System Architect & Security Researcher · Top 2% TryHackMe
 
-[Writing (farrosfr.com)](https://farrosfr.com) · [LinkedIn](https://www.linkedin.com/in/farrosfr) · [TryHackMe](https://tryhackme.com/p/farrosfr) · [Medium](https://farrosfr.medium.com)
+<p>
+  <a href="https://farrosfr.com/"><img src="https://img.shields.io/badge/Substack-farrosfr.com-FF6719?style=flat-square&logo=substack&logoColor=white" alt="Substack"/></a>
+  <a href="https://www.linkedin.com/in/farrosfr/"><img src="https://img.shields.io/badge/LinkedIn-farrosfr-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://tryhackme.com/p/farrosfr"><img src="https://img.shields.io/badge/TryHackMe-Top_2%25-C1121F?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a>
+  <a href="https://farrosfr.medium.com/"><img src="https://img.shields.io/badge/Medium-farrosfr-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium"/></a>
+</p>
 
 ---
 
-System Architect building high-performance web systems (Astro contributor, theme author) and backend tooling with Rust and Python. Offensive security practitioner focusing on attack simulation, TTP analysis (MITRE ATT&CK), and environment isolation tooling.
+System Architect specializing in high-performance frontend architecture (Astro, Tailwind CSS), systems programming (Rust, Axum), and offensive security (MITRE ATT&CK, Top 2% TryHackMe).
+
+---
+
+### Featured Frontend Architecture · Zenix
+
+<p align="center">
+  <a href="https://zenix.farrosfr.com/">
+    <img src="https://raw.githubusercontent.com/farrosfr/zenix/master/readme-hero.png" alt="Zenix Astro SaaS Theme Preview" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://zenix.farrosfr.com/"><b>Live Demo ↗</b></a> · 
+  <a href="https://astro.build/themes/details/zenix/"><b>Official Astro Directory ↗</b></a> · 
+  <a href="https://github.com/farrosfr/zenix"><b>GitHub Repository ↗</b></a>
+</p>
+
+> **Zenix** is a production-grade SaaS theme built with Astro 6 and Tailwind CSS 4. Optimized for **100/100 Lighthouse performance** across desktop and mobile, featuring dark mode, MDX content, and command palette search.
 
 ---
 
@@ -15,7 +38,7 @@ System Architect building high-performance web systems (Astro contributor, theme
 | Domain | Systems & Tooling |
 | :--- | :--- |
 | **Systems & Backend** | Rust (`axum`, `tokio`, `sqlx`), PostgreSQL, Python, Linux (Debian, Arch, Kali) |
-| **High-Performance Web** | Astro (Core contributor & theme author), TypeScript, Tailwind CSS, WebExtensions (MV3) |
+| **High-Performance Web** | Astro (Theme author & contributor), TypeScript, Tailwind CSS, WebExtensions (MV3) |
 | **Offensive Security & Labs** | Attack simulation, MITRE ATT&CK TTPs, Burp Suite, Metasploit, network recon, AppSec |
 | **Autonomous Systems** | Multi-agent architectures, autonomous agent design patterns, LLM orchestration |
 
