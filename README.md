@@ -1,88 +1,49 @@
 # Mochammad Farros Fatchur Roji
 
-### System Architect | Astro Contributor | Axum Contributor | Rust Developer | Browser Extension Developer | Red Team Enthusiast
+### System Architect & Security Researcher · Top 2% TryHackMe
 
-_"The quieter you become, the more you are able to hear." - Maulana Rumi_
-
-<p>
-  <a href="https://farrosfr.com/"><img src="https://img.shields.io/badge/Substack-farrosfr.com-FF6719?style=flat&logo=substack&logoColor=white" alt="Substack custom domain"/></a>
-  <a href="https://addons.mozilla.org/en-US/firefox/addon/noa-blocker/"><img src="https://img.shields.io/badge/Firefox_Add--on-NoA_Blocker-FF7139?style=flat&logo=firefoxbrowser&logoColor=white" alt="NoA Blocker Firefox Add-on"/></a>
-  <a href="https://farrosfr.medium.com/"><img src="https://img.shields.io/badge/Medium-farrosfr-000000?style=flat&logo=medium&logoColor=white" alt="Medium"/></a>
-  <a href="https://www.linkedin.com/in/farrosfr/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.linkedin.com/in/farrosfr/"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+[Writing (farrosfr.com)](https://farrosfr.com) · [LinkedIn](https://www.linkedin.com/in/farrosfr) · [TryHackMe](https://tryhackme.com/p/farrosfr) · [Medium](https://farrosfr.medium.com)
 
 ---
 
-### About Me
-
-I build fast, minimal, and practical web products with Astro, TypeScript, browser extensions, and backend tools that stay close to real operational needs.
-
-I currently contribute to Astro, published the free [Zenix Astro theme](https://astro.build/themes/details/zenix/), built the [NoA Blocker Firefox add-on](https://addons.mozilla.org/en-US/firefox/addon/noa-blocker/), and have been building practical backend services with Rust, Axum, Tokio, PostgreSQL, and SQLx.
-
-I also write about cybersecurity, data engineering, web development, and engineering notes on [farrosfr.com](https://farrosfr.com/) as my Substack custom domain, plus [Medium](https://farrosfr.medium.com/).
+System Architect building high-performance web systems (Astro contributor, theme author) and backend tooling with Rust and Python. Offensive security practitioner focusing on attack simulation, TTP analysis (MITRE ATT&CK), and environment isolation tooling.
 
 ---
 
-### Current Focus
+### Core Technical Domains
 
-- Contributing to the Astro ecosystem
-- Building free, practical Astro themes
-- Developing browser add-ons for privacy, security, and focused browsing
-- Writing backend services and tooling with Rust, Axum, Tokio, PostgreSQL, and SQLx
-- Publishing security and engineering articles
-- Practicing offensive security and attack simulation
-
----
-
-### Offensive Arsenal
-
-<p>
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp-FF7A1F?style=flat-square&logo=burp-suite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-000000?style=flat-square&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cobalt%20Strike-8B0000?style=flat-square&logo=sketch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ghidra-FF0000?style=flat-square&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/John%20the%20Ripper-000000?style=flat-square&logo=gnu&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLmap-CC0000?style=flat-square&logo=sqlite&logoColor=white" />
-</p>
+| Domain | Systems & Tooling |
+| :--- | :--- |
+| **Systems & Backend** | Rust (xum, 	okio, sqlx), PostgreSQL, Python, Linux (Debian, Arch, Kali) |
+| **High-Performance Web** | Astro (Core contributor & theme author), TypeScript, Tailwind CSS, WebExtensions (MV3) |
+| **Offensive Security & Labs** | Attack simulation, MITRE ATT&CK TTPs, Burp Suite, Metasploit, network recon, AppSec |
+| **Autonomous Systems** | Multi-agent architectures, autonomous agent design patterns, LLM orchestration |
 
 ---
 
-### Web & Backend Stack
+### Shipped Systems & Tooling
 
-<p>
-  <img src="https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firefox%20Add--ons-FF7139?style=flat-square&logo=firefoxbrowser&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Axum-222222?style=flat-square&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tokio-222222?style=flat-square&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLx-333333?style=flat-square&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-</p>
+| System / Project | Domain | Architecture & Tech | Status / Artifact |
+| :--- | :--- | :--- | :--- |
+| **[Zenix](https://astro.build/themes/details/zenix/)** | Web Architecture | Astro 6, TypeScript, Tailwind CSS | [Astro Directory](https://astro.build/themes/details/zenix/) · 100/100 Lighthouse SaaS theme |
+| **[browser-focus](https://github.com/farrosfr/browser-focus)** | Systems & AppSec | Windows Enterprise Policies | Open-source browser isolation engine for labs & research |
+| **[Red Team Playbook](https://github.com/farrosfr/red-team-playbook)** | Offensive Security | MITRE ATT&CK Framework | Field manual of offensive tactics, techniques, and procedures |
+| **[learn-agents](https://github.com/farrosfr/learn-agents)** | Autonomous AI | Python, Multi-Agent Systems | Architectural patterns and implementations for autonomous agents |
+| **[NoA Blocker](https://addons.mozilla.org/en-US/firefox/addon/noa-blocker/)** | Client Security | WebExtensions, DOM Mutation | [Firefox Add-ons (AMO)](https://addons.mozilla.org/en-US/firefox/addon/noa-blocker/) · Keyword & DOM content filter |
 
 ---
 
-### Featured Work
+### Technical Writing & Dispatches
 
-- [Red Team Playbook](https://github.com/farrosfr/red-team-playbook) - Comprehensive TTPs and attack techniques aligned with MITRE ATT&CK
-- [AI Agent Architecture](https://github.com/farrosfr/learn-agents) - Design patterns and implementations for autonomous multi-agent systems
-- [Zenix](https://astro.build/themes/details/zenix/) - a free Astro theme published on the official Astro theme directory
-- [NoA Blocker](https://addons.mozilla.org/en-US/firefox/addon/noa-blocker/) - a Firefox add-on for DOM-level keyword and content filtering
-- [farrosfr.com](https://farrosfr.com/) - Substack custom domain for cybersecurity and engineering writing
-- [farrosfr Medium](https://farrosfr.medium.com/) - practical notes on security and development
+- **[farrosfr.com](https://farrosfr.com/)** — Substack publication covering cybersecurity analysis, system architecture notes, and data engineering.
+- **[Medium (@farrosfr)](https://farrosfr.medium.com/)** — Practical guides on offensive security, WebExtensions, and software performance.
 
 ---
 
-### Stats & Journey
+### Security Credentials
 
-<p>
+<p align="left">
   <a href="https://tryhackme.com/p/farrosfr">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/farrosfr.png" alt="TryHackMe Badge" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/farrosfr.png" alt="TryHackMe Top 2% Badge" />
   </a>
 </p>
